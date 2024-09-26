@@ -28,7 +28,7 @@ A suitable for chinese bodies random helper alfred workflow.
 - ✅生成随机时间日期
 
 # 下载
-
+[0.1](https://github.com/PeixyJ/alfred-random-helper/releases/tag/0.1)
 # 使用方法
 
 - ✅生成中文名字 !name
